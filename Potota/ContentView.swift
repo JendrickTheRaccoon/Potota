@@ -13,7 +13,8 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Jendrick Burgos- Baked papas (Potatos)")
+            Text("If we claim to be without sin, we deceive ourselves and the truth is not in us- 1 John 1:8:")
         }
         .padding()
     }
